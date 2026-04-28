@@ -1,4 +1,4 @@
-Todo (Context + LocalStorage)
+Todo
 
 This is a small Todo application built with React and Vite. The main purpose of this project is to strengthen basic React skills. The app is intentionally simple so I can focus on core concepts.
 
